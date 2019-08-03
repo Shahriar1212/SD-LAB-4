@@ -38,6 +38,9 @@
 .cards{
     background-color: #f7f7f9;
 }
+.h{
+    height: 200px;
+}
 .cards .card{
     margin-top: 80px;
     margin-bottom: 80px;

@@ -1,0 +1,129 @@
+* {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        body {
+            background: #ffffff;
+            font-family: sans-serif;
+        }
+
+        .page {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: #F5F6F8;
+        }
+
+        h2 {
+            color: black;
+            text-transform: uppercase;
+            text-align: center;
+            letter-spacing: 2px;
+        }
+
+        .header {
+            padding-top: 50px;
+            margin-bottom: 35px;
+        }
+
+        .header p {
+            text-align: center;
+            margin-bottom: 10px;
+            color: #90837B;
+            font-size: 15px;
+        }
+
+
+
+        p {
+            font-family: sans-serif;
+            font-size: 16px;
+            line-height: 24px;
+        }
+
+        .container {
+            /*            max-width: 1170px;*/
+            width: 100%;
+            margin: 0 auto;
+            margin-top: 10px;
+
+            display: flex;
+        }
+
+        .column {
+            margin: 0 15px 25px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0, 12),
+                0, 1px, 2px, rgba(0, 0, 0, 0, 24);
+            background: #fff;
+            border-radius: 10px;
+
+            flex-basis: 33%;
+        }
+
+        img {
+            width: 100%;
+        }
+
+        .card {
+            /*            padding: 15px 25px;*/
+        }
+
+        .details {
+            padding-left: 15px;
+            margin-top: 15px;
+        }
+
+        .info p {
+            margin-top: 5pxpx;
+            margin-bottom: 2px;
+            font-size: 12px;
+            font-family: sans-serif;
+            color: #A9A9B1;
+        }
+
+        .info a {
+            text-decoration: none;
+            font-size: 12px;
+            font-family: sans-serif;
+            color: #A9A9B1;
+            margin-bottom: 2px
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+
+        li img {
+            width: 16px;
+        }
+
+        ul {
+            list-style: none;
+            float: right;
+        }
+
+        ul li {
+            display: inline;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .status {
+            float: left;
+            padding-left: 15px;
+        }
+
+        .status p {
+            font-size: 13px;
+            color: goldenrod;
+        }
+
+        .botom {
+            margin-bottom: 30px;
+            padding: 10px 0px;
+        }

@@ -7,6 +7,10 @@
 .my-nav{
     background-color: #fff;
 }
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+    font-weight: bold;
+}
 
 
 .slider-image {
@@ -66,8 +70,7 @@
 
 .footer_content{
     border-top: 1px solid rgb(180, 180, 180);
-    display: table-cell;
-    padding:20px;
+    padding:10px;
 }
 .footer_content img{
     width: 20px;
